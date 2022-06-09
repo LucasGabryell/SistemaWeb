@@ -34,3 +34,4 @@ C:\Users\luckh\OneDrive\Área de Trabalho\Sistema Web\SalesWebMVC\SalesWebMVC\ob
 C:\Users\luckh\OneDrive\Área de Trabalho\Sistema Web\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.pdb
 C:\Users\luckh\OneDrive\Área de Trabalho\Sistema Web\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.genruntimeconfig.cache
 C:\Users\luckh\OneDrive\Área de Trabalho\Sistema Web\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
+C:\Users\luckh\OneDrive\Área de Trabalho\Sistema Web\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
