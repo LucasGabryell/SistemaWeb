@@ -6,7 +6,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using SalesWebMVC.Models;
-using SalesWebMVC.Models.ViewModels;
 
 namespace SalesWebMVC.Controllers
 {

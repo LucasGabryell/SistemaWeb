@@ -16,12 +16,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #line 1 "C:\Users\luckh\OneDrive\Área de Trabalho\Sistema Web\SalesWebMVC\SalesWebMVC\Views\_ViewImports.cshtml"
 using SalesWebMVC;
-using SalesWebMVC.Models.ViewModels;
 
 #line default
 #line hidden
 #line 2 "C:\Users\luckh\OneDrive\Área de Trabalho\Sistema Web\SalesWebMVC\SalesWebMVC\Views\_ViewImports.cshtml"
-    using SalesWebMVC.Models.ViewModels;
+using SalesWebMVC.Models;
 
 #line default
 #line hidden
