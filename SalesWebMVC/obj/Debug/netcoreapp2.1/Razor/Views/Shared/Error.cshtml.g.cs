@@ -20,8 +20,7 @@ using SalesWebMVC;
 #line default
 #line hidden
 #line 2 "C:\Users\luckh\OneDrive\Área de Trabalho\Sistema Web\SalesWebMVC\SalesWebMVC\Views\_ViewImports.cshtml"
-    using SalesWebMVC.Models;
-using SalesWebMVC.Models.ViewModels;
+using SalesWebMVC.Models;
 
 #line default
 #line hidden
