@@ -5,6 +5,9 @@ namespace SalesWebMVC.Models
 {
     public class Seller
     {
+        private int v1;
+        private string v2;
+
         public int Id { get; set; }
         public string Name { get; set; }
         public string Email { get; set; }
@@ -26,6 +29,12 @@ namespace SalesWebMVC.Models
             Birthdate = birthdate;
             BaseSalary = baseSalary;
             Department = department;
+        }
+
+        public Seller(int v1, string v2)
+        {
+            this.v1 = v1;
+            this.v2 = v2;
         }
 
         public void AddSelas(SalesRecord sr)
