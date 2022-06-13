@@ -17,5 +17,6 @@
     <WebStackScaffolding_DbContextTypeFullName>SalesWebMVC.Models.SalesWebMVCContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <NameOfLastUsedPublishProfile>C:\Users\luckh\OneDrive\Área de Trabalho\Sistema Web\SalesWebMVC\SalesWebMVC\Properties\PublishProfiles\sistemamvcweb - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
